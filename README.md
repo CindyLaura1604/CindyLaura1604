@@ -1,4 +1,4 @@
-##👩🏻‍💻 Olá! Eu me chamo Cindy e sou estudante técnico em Desenvolvimento de Sistema na instituição CEDUP Perfeito Manoel de Aguiar e busco minha primeira experiência profissional.
+##👩🏻‍💻 Olá! Eu me chamo Cindy e sou estudante técnico em Desenvolvimento de Sistema na instituição CEDUP Perfeito Manoel de Aguiar e busco minha primeira experiência profissional.##
 - Trabalho com JavaScript, react, HTML e CSS
 - Iniciante em Java
 - MySQL
