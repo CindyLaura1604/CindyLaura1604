@@ -1,16 +1,13 @@
-## Hi there 👋
+##👩🏻‍💻 Olá! Eu me chamo Cindy e sou estudante técnico em Desenvolvimento de Sistema na instituição CEDUP Perfeito Manoel de Aguiar e busco minha primeira experiência profissional.
+- Trabalho com JavaScript, react, HTML e CSS
+- Iniciante em Java
+- MySQL
+- Conhecimento em Prototipagem UX/UI design
+- Métodologias agéis como Kanban, SCRUM e Design Thinking
 
-<!--
-**CindyLaura1604/CindyLaura1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Idealizei, projetei, desenvolvi e liderei diversos projetos escolares com o intuito da melhoria da comunidade, como por exemplo: 
+- Wosupport: 
+- Trilha Tech:
+- STEM Girls:
+- SOS Ligação:
+- TrafficChoices: 
